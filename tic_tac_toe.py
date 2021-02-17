@@ -91,7 +91,7 @@ def game():
         for key in board_keys:
             theboard[key] = " "
 
-        game()
+game()
 
-if __name__ == "__main__":
-    game()
+#if __name__ == "__main__":
+ #   game()
